@@ -1,0 +1,15 @@
+{
+  "originHash" : "fd63e02fd90c0058bf34c065bde1ef41e8f10523baf7ac5bf1ea54ae298597e8",
+  "pins" : [
+    {
+      "identity" : "hellolib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yume190/HelloLib",
+      "state" : {
+        "branch" : "main",
+        "revision" : "28dfaab0650d1e4b54403480caa14c5d1d771791"
+      }
+    }
+  ],
+  "version" : 3
+}

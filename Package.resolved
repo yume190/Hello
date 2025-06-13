@@ -1,5 +1,5 @@
 {
-  "originHash" : "2cea0218b555915016cf180b5f1427724e3cb65e02939c33013a81a4f877d33b",
+  "originHash" : "235eb156468ebaebf93c27e237534ec9c09ff78e7c6fc3db1671c7ea21a98c15",
   "pins" : [
     {
       "identity" : "hellolib",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/yume190/HelloLib",
       "state" : {
         "branch" : "main",
-        "revision" : "0485f22f9a072ed9a402ac82354ef56fad3c9def"
+        "revision" : "5e4fdbae03952a3e1a874b40de7a6fa22535a60e"
       }
     }
   ],
